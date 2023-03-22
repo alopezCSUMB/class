@@ -7,4 +7,3 @@
 # Example code to 
 for i in range(100 + 1):
     print(i)
-print(i)
